@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T16:45:43.152Z",
+ "generatedAt": "2026-10-21T16:46:43.237Z",
  "logs": [
   {
    "path": "Champs-Hopper/Quals/akit_26-04-30_13-35-13_hopper_q5.wpilog",
@@ -376,14 +376,6 @@
    "size": 37822464,
    "compressedSize": 14913673,
    "date": "2026-04-05T16:08:58Z"
-  },
-  {
-   "path": "_ci-test/test.wpilog",
-   "file": "logs/_ci-test/test.wpilog.gz",
-   "encoding": "gzip",
-   "size": 31,
-   "compressedSize": 48,
-   "date": "2026-10-21T16:45:43.143Z"
   }
  ]
 }
