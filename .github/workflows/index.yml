@@ -1,0 +1,42 @@
+name: Index logs
+
+on:
+  push:
+    branches: [main]
+    paths: ['logs/**']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: index
+  cancel-in-progress: false
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Gzip new logs and rebuild index.json
+        run: node scripts/index.mjs
+      - name: Commit changes
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898729+github-actions[bot]@users.noreply.github.com"
+            git add -A logs index.json
+            deleted=$(git diff --cached --name-only --diff-filter=D -- logs | grep -v '\.gz$' || true)
+            msg="Update log index [skip ci]"
+            if [ -n "$deleted" ]; then
+              msg="$msg"$'\n\nConverted to .gz:\n'"$deleted"
+            fi
+            git commit -m "$msg"
+            git pull --rebase
+            git push
+          fi

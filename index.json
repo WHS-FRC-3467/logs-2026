@@ -1,0 +1,381 @@
+{
+ "generatedAt": "2026-10-21T16:39:40.003Z",
+ "logs": [
+  {
+   "path": "Champs-Hopper/Quals/akit_26-04-30_13-35-13_hopper_q5.wpilog",
+   "file": "logs/Champs-Hopper/Quals/akit_26-04-30_13-35-13_hopper_q5.wpilog.gz",
+   "encoding": "gzip",
+   "size": 46989312,
+   "compressedSize": 17961191,
+   "date": "2026-04-30T13:35:13Z"
+  },
+  {
+   "path": "Champs-Hopper/Quals/akit_26-04-30_16-11-04_hopper_q23.wpilog",
+   "file": "logs/Champs-Hopper/Quals/akit_26-04-30_16-11-04_hopper_q23.wpilog.gz",
+   "encoding": "gzip",
+   "size": 43556864,
+   "compressedSize": 17680959,
+   "date": "2026-04-30T16:11:04Z"
+  },
+  {
+   "path": "Champs-Hopper/Quals/akit_26-04-30_19-36-03_hopper_q37.wpilog",
+   "file": "logs/Champs-Hopper/Quals/akit_26-04-30_19-36-03_hopper_q37.wpilog.gz",
+   "encoding": "gzip",
+   "size": 40591360,
+   "compressedSize": 16318707,
+   "date": "2026-04-30T19:36:03Z"
+  },
+  {
+   "path": "Champs-Hopper/Quals/akit_26-04-30_20-50-46_hopper_q46.wpilog",
+   "file": "logs/Champs-Hopper/Quals/akit_26-04-30_20-50-46_hopper_q46.wpilog.gz",
+   "encoding": "gzip",
+   "size": 37937152,
+   "compressedSize": 15619744,
+   "date": "2026-04-30T20:50:46Z"
+  },
+  {
+   "path": "Champs-Hopper/Quals/akit_26-04-30_23-06-23_hopper_q62.wpilog",
+   "file": "logs/Champs-Hopper/Quals/akit_26-04-30_23-06-23_hopper_q62.wpilog.gz",
+   "encoding": "gzip",
+   "size": 89890816,
+   "compressedSize": 30207938,
+   "date": "2026-04-30T23:06:23Z"
+  },
+  {
+   "path": "NE-DCMP/Elims/akit_26-04-18_14-04-06_necmp2_e1.wpilog",
+   "file": "logs/NE-DCMP/Elims/akit_26-04-18_14-04-06_necmp2_e1.wpilog.gz",
+   "encoding": "gzip",
+   "size": 52985856,
+   "compressedSize": 19015594,
+   "date": "2026-04-18T14:04:06Z"
+  },
+  {
+   "path": "NE-DCMP/Elims/akit_26-04-18_15-03-48_necmp2_e7.wpilog",
+   "file": "logs/NE-DCMP/Elims/akit_26-04-18_15-03-48_necmp2_e7.wpilog.gz",
+   "encoding": "gzip",
+   "size": 44523520,
+   "compressedSize": 16869616,
+   "date": "2026-04-18T15:03:48Z"
+  },
+  {
+   "path": "NE-DCMP/Elims/akit_26-04-18_16-00-37_necmp2_e11.wpilog",
+   "file": "logs/NE-DCMP/Elims/akit_26-04-18_16-00-37_necmp2_e11.wpilog.gz",
+   "encoding": "gzip",
+   "size": 35438592,
+   "compressedSize": 14427280,
+   "date": "2026-04-18T16:00:37Z"
+  },
+  {
+   "path": "NE-DCMP/Elims/akit_26-04-18_17-17-31_necmp2_e14.wpilog",
+   "file": "logs/NE-DCMP/Elims/akit_26-04-18_17-17-31_necmp2_e14.wpilog.gz",
+   "encoding": "gzip",
+   "size": 68673536,
+   "compressedSize": 23094731,
+   "date": "2026-04-18T17:17:31Z"
+  },
+  {
+   "path": "NE-DCMP/Elims/akit_26-04-18_17-53-41_necmp2_e15.wpilog",
+   "file": "logs/NE-DCMP/Elims/akit_26-04-18_17-53-41_necmp2_e15.wpilog.gz",
+   "encoding": "gzip",
+   "size": 73695232,
+   "compressedSize": 24921740,
+   "date": "2026-04-18T17:53:41Z"
+  },
+  {
+   "path": "NE-DCMP/Finals/akit_26-04-18_20-26-43_necmp_e1.wpilog",
+   "file": "logs/NE-DCMP/Finals/akit_26-04-18_20-26-43_necmp_e1.wpilog.gz",
+   "encoding": "gzip",
+   "size": 42164224,
+   "compressedSize": 16161875,
+   "date": "2026-04-18T20:26:43Z"
+  },
+  {
+   "path": "NE-DCMP/Finals/akit_26-04-18_20-36-27_necmp_e1.wpilog",
+   "file": "logs/NE-DCMP/Finals/akit_26-04-18_20-36-27_necmp_e1.wpilog.gz",
+   "encoding": "gzip",
+   "size": 10485760,
+   "compressedSize": 2750403,
+   "date": "2026-04-18T20:36:27Z"
+  },
+  {
+   "path": "NE-DCMP/Finals/akit_26-04-18_21-01-18_necmp_e2.wpilog",
+   "file": "logs/NE-DCMP/Finals/akit_26-04-18_21-01-18_necmp_e2.wpilog.gz",
+   "encoding": "gzip",
+   "size": 44318720,
+   "compressedSize": 16790589,
+   "date": "2026-04-18T21:01:18Z"
+  },
+  {
+   "path": "NE-DCMP/Finals/akit_26-04-18_21-32-36_necmp_e3.wpilog",
+   "file": "logs/NE-DCMP/Finals/akit_26-04-18_21-32-36_necmp_e3.wpilog.gz",
+   "encoding": "gzip",
+   "size": 50216960,
+   "compressedSize": 18158428,
+   "date": "2026-04-18T21:32:36Z"
+  },
+  {
+   "path": "NE-DCMP/Quals/akit_26-04-16_16-24-55_necmp2_q2.wpilog",
+   "file": "logs/NE-DCMP/Quals/akit_26-04-16_16-24-55_necmp2_q2.wpilog.gz",
+   "encoding": "gzip",
+   "size": 56229888,
+   "compressedSize": 19517634,
+   "date": "2026-04-16T16:24:55Z"
+  },
+  {
+   "path": "NE-DCMP/Quals/akit_26-04-16_17-43-23_necmp2_q10.wpilog",
+   "file": "logs/NE-DCMP/Quals/akit_26-04-16_17-43-23_necmp2_q10.wpilog.gz",
+   "encoding": "gzip",
+   "size": 41107456,
+   "compressedSize": 15720924,
+   "date": "2026-04-16T17:43:23Z"
+  },
+  {
+   "path": "NE-DCMP/Quals/akit_26-04-16_19-02-21_necmp2_q18.wpilog",
+   "file": "logs/NE-DCMP/Quals/akit_26-04-16_19-02-21_necmp2_q18.wpilog.gz",
+   "encoding": "gzip",
+   "size": 38895616,
+   "compressedSize": 15407365,
+   "date": "2026-04-16T19:02:21Z"
+  },
+  {
+   "path": "NE-DCMP/Quals/akit_26-04-16_20-52-13_necmp2_q27.wpilog",
+   "file": "logs/NE-DCMP/Quals/akit_26-04-16_20-52-13_necmp2_q27.wpilog.gz",
+   "encoding": "gzip",
+   "size": 33390592,
+   "compressedSize": 13665864,
+   "date": "2026-04-16T20:52:13Z"
+  },
+  {
+   "path": "NE-DCMP/Quals/akit_26-04-16_22-04-41_necmp2_q35.wpilog",
+   "file": "logs/NE-DCMP/Quals/akit_26-04-16_22-04-41_necmp2_q35.wpilog.gz",
+   "encoding": "gzip",
+   "size": 50397184,
+   "compressedSize": 18352356,
+   "date": "2026-04-16T22:04:41Z"
+  },
+  {
+   "path": "NE-DCMP/Quals/akit_26-04-17_13-35-18_necmp2_q45.wpilog",
+   "file": "logs/NE-DCMP/Quals/akit_26-04-17_13-35-18_necmp2_q45.wpilog.gz",
+   "encoding": "gzip",
+   "size": 41132032,
+   "compressedSize": 15936304,
+   "date": "2026-04-17T13:35:18Z"
+  },
+  {
+   "path": "NE-DCMP/Quals/akit_26-04-17_14-52-11_necmp2_q53.wpilog",
+   "file": "logs/NE-DCMP/Quals/akit_26-04-17_14-52-11_necmp2_q53.wpilog.gz",
+   "encoding": "gzip",
+   "size": 39477248,
+   "compressedSize": 15183392,
+   "date": "2026-04-17T14:52:11Z"
+  },
+  {
+   "path": "NE-DCMP/Quals/akit_26-04-17_17-18-26_necmp2_q66.wpilog",
+   "file": "logs/NE-DCMP/Quals/akit_26-04-17_17-18-26_necmp2_q66.wpilog.gz",
+   "encoding": "gzip",
+   "size": 117432320,
+   "compressedSize": 35514913,
+   "date": "2026-04-17T17:18:26Z"
+  },
+  {
+   "path": "NE-DCMP/Quals/akit_26-04-17_18-58-09_necmp2_q75.wpilog",
+   "file": "logs/NE-DCMP/Quals/akit_26-04-17_18-58-09_necmp2_q75.wpilog.gz",
+   "encoding": "gzip",
+   "size": 32047104,
+   "compressedSize": 13255394,
+   "date": "2026-04-17T18:58:09Z"
+  },
+  {
+   "path": "NE-DCMP/Quals/akit_26-04-17_20-20-16_necmp2_q84.wpilog",
+   "file": "logs/NE-DCMP/Quals/akit_26-04-17_20-20-16_necmp2_q84.wpilog.gz",
+   "encoding": "gzip",
+   "size": 43819008,
+   "compressedSize": 16388722,
+   "date": "2026-04-17T20:20:16Z"
+  },
+  {
+   "path": "NE-DCMP/Quals/akit_26-04-17_21-15-24_necmp2_q90.wpilog",
+   "file": "logs/NE-DCMP/Quals/akit_26-04-17_21-15-24_necmp2_q90.wpilog.gz",
+   "encoding": "gzip",
+   "size": 70475776,
+   "compressedSize": 23874591,
+   "date": "2026-04-17T21:15:24Z"
+  },
+  {
+   "path": "NE-DCMP/Quals/akit_26-04-17_22-22-06_necmp2_q97.wpilog",
+   "file": "logs/NE-DCMP/Quals/akit_26-04-17_22-22-06_necmp2_q97.wpilog.gz",
+   "encoding": "gzip",
+   "size": 34045952,
+   "compressedSize": 13607695,
+   "date": "2026-04-17T22:22:06Z"
+  },
+  {
+   "path": "W5-Worcester/Elims/akit_26-04-05_18-47-55_mawor_e1.wpilog",
+   "file": "logs/W5-Worcester/Elims/akit_26-04-05_18-47-55_mawor_e1.wpilog.gz",
+   "encoding": "gzip",
+   "size": 45408256,
+   "compressedSize": 16749563,
+   "date": "2026-04-05T18:47:55Z"
+  },
+  {
+   "path": "W5-Worcester/Elims/akit_26-04-05_19-46-16_mawor_e7.wpilog",
+   "file": "logs/W5-Worcester/Elims/akit_26-04-05_19-46-16_mawor_e7.wpilog.gz",
+   "encoding": "gzip",
+   "size": 40132608,
+   "compressedSize": 15259352,
+   "date": "2026-04-05T19:46:16Z"
+  },
+  {
+   "path": "W5-Worcester/Elims/akit_26-04-05_20-50-16_mawor_e11.wpilog",
+   "file": "logs/W5-Worcester/Elims/akit_26-04-05_20-50-16_mawor_e11.wpilog.gz",
+   "encoding": "gzip",
+   "size": 60825600,
+   "compressedSize": 20663589,
+   "date": "2026-04-05T20:50:16Z"
+  },
+  {
+   "path": "W5-Worcester/Elims/akit_26-04-05_22-00-57_mawor_e14.wpilog",
+   "file": "logs/W5-Worcester/Elims/akit_26-04-05_22-00-57_mawor_e14.wpilog.gz",
+   "encoding": "gzip",
+   "size": 41984000,
+   "compressedSize": 15776831,
+   "date": "2026-04-05T22:00:57Z"
+  },
+  {
+   "path": "W5-Worcester/Elims/akit_26-04-05_22-25-27_mawor_e15.wpilog",
+   "file": "logs/W5-Worcester/Elims/akit_26-04-05_22-25-27_mawor_e15.wpilog.gz",
+   "encoding": "gzip",
+   "size": 48414720,
+   "compressedSize": 17451622,
+   "date": "2026-04-05T22:25:27Z"
+  },
+  {
+   "path": "W5-Worcester/Practice/akit_26-04-04_12-35-35_mawor_p1.wpilog",
+   "file": "logs/W5-Worcester/Practice/akit_26-04-04_12-35-35_mawor_p1.wpilog.gz",
+   "encoding": "gzip",
+   "size": 65282048,
+   "compressedSize": 20886267,
+   "date": "2026-04-04T12:35:35Z"
+  },
+  {
+   "path": "W5-Worcester/Practice/akit_26-04-04_13-03-38_mawor_p3.wpilog",
+   "file": "logs/W5-Worcester/Practice/akit_26-04-04_13-03-38_mawor_p3.wpilog.gz",
+   "encoding": "gzip",
+   "size": 47841280,
+   "compressedSize": 17163488,
+   "date": "2026-04-04T13:03:38Z"
+  },
+  {
+   "path": "W5-Worcester/Practice/akit_26-04-04_13-28-04_mawor_p0.wpilog",
+   "file": "logs/W5-Worcester/Practice/akit_26-04-04_13-28-04_mawor_p0.wpilog.gz",
+   "encoding": "gzip",
+   "size": 61038592,
+   "compressedSize": 20785433,
+   "date": "2026-04-04T13:28:04Z"
+  },
+  {
+   "path": "W5-Worcester/Practice/akit_26-04-04_16-01-25_mawor_p0.wpilog",
+   "file": "logs/W5-Worcester/Practice/akit_26-04-04_16-01-25_mawor_p0.wpilog.gz",
+   "encoding": "gzip",
+   "size": 2580480,
+   "compressedSize": 614391,
+   "date": "2026-04-04T16:01:25Z"
+  },
+  {
+   "path": "W5-Worcester/Quals/akit_26-04-04_15-35-12_mawor_q6.wpilog",
+   "file": "logs/W5-Worcester/Quals/akit_26-04-04_15-35-12_mawor_q6.wpilog.gz",
+   "encoding": "gzip",
+   "size": 50503680,
+   "compressedSize": 17742079,
+   "date": "2026-04-04T15:35:12Z"
+  },
+  {
+   "path": "W5-Worcester/Quals/akit_26-04-04_16-24-39_mawor_q11.wpilog",
+   "file": "logs/W5-Worcester/Quals/akit_26-04-04_16-24-39_mawor_q11.wpilog.gz",
+   "encoding": "gzip",
+   "size": 50855936,
+   "compressedSize": 17899833,
+   "date": "2026-04-04T16:24:39Z"
+  },
+  {
+   "path": "W5-Worcester/Quals/akit_26-04-04_17-16-39_mawor_q16.wpilog",
+   "file": "logs/W5-Worcester/Quals/akit_26-04-04_17-16-39_mawor_q16.wpilog.gz",
+   "encoding": "gzip",
+   "size": 43261952,
+   "compressedSize": 15823849,
+   "date": "2026-04-04T17:16:39Z"
+  },
+  {
+   "path": "W5-Worcester/Quals/akit_26-04-04_18-36-42_mawor_q21.wpilog",
+   "file": "logs/W5-Worcester/Quals/akit_26-04-04_18-36-42_mawor_q21.wpilog.gz",
+   "encoding": "gzip",
+   "size": 36831232,
+   "compressedSize": 13318439,
+   "date": "2026-04-04T18:36:42Z"
+  },
+  {
+   "path": "W5-Worcester/Quals/akit_26-04-04_19-36-31_mawor_q27.wpilog",
+   "file": "logs/W5-Worcester/Quals/akit_26-04-04_19-36-31_mawor_q27.wpilog.gz",
+   "encoding": "gzip",
+   "size": 42483712,
+   "compressedSize": 14975712,
+   "date": "2026-04-04T19:36:31Z"
+  },
+  {
+   "path": "W5-Worcester/Quals/akit_26-04-04_20-59-22_mawor_q36.wpilog",
+   "file": "logs/W5-Worcester/Quals/akit_26-04-04_20-59-22_mawor_q36.wpilog.gz",
+   "encoding": "gzip",
+   "size": 38682624,
+   "compressedSize": 14135573,
+   "date": "2026-04-04T20:59:22Z"
+  },
+  {
+   "path": "W5-Worcester/Quals/akit_26-04-04_22-20-20_mawor_q45.wpilog",
+   "file": "logs/W5-Worcester/Quals/akit_26-04-04_22-20-20_mawor_q45.wpilog.gz",
+   "encoding": "gzip",
+   "size": 41435136,
+   "compressedSize": 14873303,
+   "date": "2026-04-04T22:20:20Z"
+  },
+  {
+   "path": "W5-Worcester/Quals/akit_26-04-05_12-38-51_mawor_q52.wpilog",
+   "file": "logs/W5-Worcester/Quals/akit_26-04-05_12-38-51_mawor_q52.wpilog.gz",
+   "encoding": "gzip",
+   "size": 38928384,
+   "compressedSize": 14834654,
+   "date": "2026-04-05T12:38:51Z"
+  },
+  {
+   "path": "W5-Worcester/Quals/akit_26-04-05_13-54-08_mawor_q56.wpilog",
+   "file": "logs/W5-Worcester/Quals/akit_26-04-05_13-54-08_mawor_q56.wpilog.gz",
+   "encoding": "gzip",
+   "size": 48611328,
+   "compressedSize": 17196616,
+   "date": "2026-04-05T13:54:08Z"
+  },
+  {
+   "path": "W5-Worcester/Quals/akit_26-04-05_14-27-46_mawor_q60.wpilog",
+   "file": "logs/W5-Worcester/Quals/akit_26-04-05_14-27-46_mawor_q60.wpilog.gz",
+   "encoding": "gzip",
+   "size": 39190528,
+   "compressedSize": 14645216,
+   "date": "2026-04-05T14:27:46Z"
+  },
+  {
+   "path": "W5-Worcester/Quals/akit_26-04-05_15-34-02_mawor_q68.wpilog",
+   "file": "logs/W5-Worcester/Quals/akit_26-04-05_15-34-02_mawor_q68.wpilog.gz",
+   "encoding": "gzip",
+   "size": 40329216,
+   "compressedSize": 15605829,
+   "date": "2026-04-05T15:34:02Z"
+  },
+  {
+   "path": "W5-Worcester/Quals/akit_26-04-05_16-08-58_mawor_q72.wpilog",
+   "file": "logs/W5-Worcester/Quals/akit_26-04-05_16-08-58_mawor_q72.wpilog.gz",
+   "encoding": "gzip",
+   "size": 37822464,
+   "compressedSize": 14913673,
+   "date": "2026-04-05T16:08:58Z"
+  }
+ ]
+}
